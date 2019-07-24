@@ -1,2 +1,6 @@
 story 1file
+<<<<<<< HEAD
 sa updated for registration file
+=======
+logn details updated
+>>>>>>> master
